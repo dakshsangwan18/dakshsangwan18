@@ -58,4 +58,4 @@ Currently, I’m developing **scalable web applications**, contributing to open 
 
 ---
 
-✨ *Building, learning, and improving every day.*
+✨ *Building projects, learning along the way and growing every day.*
