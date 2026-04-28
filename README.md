@@ -8,11 +8,10 @@ I actively build projects, participate in hackathons, and continuously improve m
 
 Currently, I’m developing **scalable web applications**, contributing to open source projects, and understanding system design.
 
-- 🔭 Currently working on **Java, Spring Boot & Full Stack Projects**  
-- 🌱 Learning **Backend, System Design & Data Science fundamentals**  
-- 🧠 Exploring **AI, Automation & data-driven applications**  
-- 👯 Looking to collaborate on **open-source & real-world projects**  
-- 💬 Ask me about **Web Development, Java, or beginner Data Science**  
+- 🔭 Currently working on **Nextjs, Reactjs & Python**  
+- 🌱 Learning ** System Design & Data Science concepts, tools, and applications**   
+- 👯 Looking to collaborate on **open-source & AI projects**  
+- 💬 Ask me about **Full Stack Development or Data Science**  
 - 📫 Reach me at: **dakshsgt69@gmail.com**
 
 ---
