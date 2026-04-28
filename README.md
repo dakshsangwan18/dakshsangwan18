@@ -52,7 +52,7 @@ Currently, I'm focused on developing **scalable web applications**, improving my
 ## 📫 Connect with Me
 
 - [🌐 Portfolio](https://daksh18.tech)  
-- [💼 LinkedIn](www.linkedin.com/in/daksh-sangwan-129783255/)  
+- [💼 LinkedIn](https://www.linkedin.com/in/daksh-sangwan-129783255/)  
 - [🐦 Twitter](https://x.com/DaKSH18_)  
 - [💻 GitHub](https://github.com/dakshsangwan18)  
 
