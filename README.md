@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** with a strong interest in building **real world applications**, **automation**, and  ** solving practical problems**.
+I'm a passionate **Full Stack Developer** with a strong interest in building **real world applications**, **automation**, and  **solving practical problems**.
 
 I actively build projects, participate in hackathons, and continuously improve my skills through real world projects. Alongside web development, I’m also learning **Data Science**.
 
