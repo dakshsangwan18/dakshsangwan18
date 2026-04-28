@@ -8,20 +8,21 @@ I actively build projects, participate in hackathons, and continuously improve m
 
 Currently, I’m developing **scalable web applications**, contributing to open source projects, and understanding system design.
 
-- 🔭 Currently working on **Nextjs, Reactjs & Python**  
-- 🌱 Learning ** System Design & Data Science concepts, tools, and applications**   
-- 👯 Looking to collaborate on **open-source & AI projects**  
-- 💬 Ask me about **Full Stack Development or Data Science**  
+- 🔭 Currently working on **Nextjs, Reactjs & Python.**  
+- 🌱 Learning **System Design & Data Science concepts, tools, and applications.**   
+- 👯 Looking to collaborate on **open-source & AI projects.**  
+- 💬 Ask me about **Full Stack Development or Data Science.**  
 - 📫 Reach me at: **dakshsgt69@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools**: Spring Boot, Git, GitHub, VS Code  
-- **Learning**: Data Science, Python (Basics), System Design  
-- **Domains**: Web Development, Backend Development  
+- **Languages**: C, C++, Java, Python, JavaScript, TypeScript, SQL  
+- **Frameworks & Libraries**: React, Next.js, Node.js, Nest.js, Express, Tailwind, TensorFlow  
+- **Databases**: PostgreSQL, MongoDB, Firebase  
+- **Other Tools**: Docker, Git/GitHub, Jupyter Notebook, VS Code  
+- **Domains**: Full Stack Development, Web Applications, Data Science
 
 ---
 
