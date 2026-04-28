@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** with a strong interest in building **real-world applications**, exploring **AI-driven tools**, and working on **data-driven solutions**.
+I'm a passionate **Full Stack Developer** with a strong interest in building **real world applications**, **automation**, and  ** solving practical problems**.
 
-I actively build projects, participate in hackathons, and continuously improve my skills through hands-on development. Alongside web development, I'm also building a foundation in **Data Science**.
+I actively build projects, participate in hackathons, and continuously improve my skills through real world projects. Alongside web development, I’m also learning **Data Science**.
 
-Currently, I'm focused on developing **scalable web applications**, improving my **backend skills**, and understanding **system design**.
+Currently, I’m developing **scalable web applications**, contributing to open source projects, and understanding system design.
 
 - 🔭 Currently working on **Java, Spring Boot & Full Stack Projects**  
 - 🌱 Learning **Backend, System Design & Data Science fundamentals**  
